@@ -15,4 +15,4 @@ This project aims to transfer knowledge to young people in Thailand by utilizing
 
 The provided code is only an example that students can use as a guideline. It can be modified to suit their specific project requirements.
 
-I have tried to provide detailed documentation to make the project easy to follow, even for those with no prior knowledge of programming or electronics. This project follows a learning-based approach, encouraging students and enthusiasts to explore problem-solving and seek knowledge from various sources as they develop their skills.
+I have tried to provide detailed documentation to make the project easy to follow, even for those with no prior knowledge of programming or electronics. This project follows a probem-based learning approach, encouraging students and enthusiasts to explore problem-solving and seek knowledge from various sources as they develop their skills.
