@@ -1,5 +1,5 @@
 # DustSense
-https://www.facebook.com/profile.php?id=61572237398795
+https://www.facebook.com/dustsense/
 
 A home PM2.5 meter using the NodeMCU ESP8266.
 
